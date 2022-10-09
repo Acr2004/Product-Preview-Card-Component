@@ -10,6 +10,8 @@ This is a solution to the [Product Preview Card Component Challenge on Frontend 
   - [Challenge Font](#challenge-font)
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+    - [Desktop Solution](#desktop-solution)
+    - [Mobile Solution](#mobile-solution)
   - [Links](#links)
 - [Author](#author)
 
@@ -48,8 +50,11 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-![Desktop Solution](Design/Solution/Desktop%20Solution.png)
-![Mobile Solution](Design/Solution/Mobile%20Solution.png)
+#### Desktop Solution
+![](Design/Solution/Desktop%20Solution.png)
+
+#### Mobile Solution
+![](Design/Solution/Mobile%20Solution.png)
 
 ### Links
 
