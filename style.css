@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+:root {
+    --cream: rgb(242, 235, 227);
+    --dark-cyan: rgb(60, 128, 103);
+    --dark-grayish-blue: rgb(108, 114, 137);
+    --very-dark-blue: rgb(28, 35, 43);
+    --white: rgb(255, 255, 255);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+

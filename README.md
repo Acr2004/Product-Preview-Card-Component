@@ -29,11 +29,11 @@ Mobile: 375px
 
 ### Challenge Colors
 
-- Cream: hsl(30, 38%, 92%)
-- Dark Cyan: hsl(158, 36%, 37%)
-- Dark Grayish Blue: hsl(228, 12%, 48%)
-- Very Dark Blue: hsl(212, 21%, 14%)
-- White: hsl(0, 0%, 100%)
+- Cream: rgb(242, 235, 227)
+- Dark Cyan: rgb(60, 128, 103)
+- Dark Grayish Blue: rgb(108, 114, 137)
+- Very Dark Blue: rgb(28, 35, 43)
+- White: rgb(255, 255, 255)
 
 ### Challenge Font
 
