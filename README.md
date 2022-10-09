@@ -48,7 +48,8 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-![](Design/Solution/Desktop%20Solution.png)
+![Desktop Solution](Design/Solution/Desktop%20Solution.png)
+![Mobile Solution](Design/Solution/Mobile%20Solution.png)
 
 ### Links
 
@@ -57,5 +58,5 @@ The designs were created to the following widths:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Acr2004)
-- Instagram - [@yourusername](https://www.instagram.com/ricardo_acr2004/)
+- Frontend Mentor - [Acr](https://www.frontendmentor.io/profile/Acr2004)
+- Instagram - [ricardo_acr2004](https://www.instagram.com/ricardo_acr2004/)
