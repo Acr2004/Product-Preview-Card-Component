@@ -58,8 +58,8 @@ The designs were created to the following widths:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/ricardo-piedade-product-preview-card-component-kV4uk_7YzW)
+- Live Site URL: [Live Site](https://acr2004.github.io/Product-Preview-Card-Component/)
 
 ## Author
 
