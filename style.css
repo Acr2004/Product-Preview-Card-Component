@@ -3,6 +3,7 @@
 :root {
     --cream: rgb(242, 235, 227);
     --dark-cyan: rgb(60, 128, 103);
+    --very-dark-cyan: rgb(26, 64, 49);
     --dark-grayish-blue: rgb(108, 114, 137);
     --very-dark-blue: rgb(28, 35, 43);
     --white: rgb(255, 255, 255);
@@ -15,3 +16,113 @@
     box-sizing: border-box;
 }
 
+body {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--cream);
+}
+
+#container {
+    display: flex;
+    width: 600px;
+    height: 450px;
+    margin: auto;
+}
+
+#left-side {
+    width: 50%;
+    float: left;
+    border-radius: 10px;
+}
+
+#left-side img {
+    width: 100%;
+    border-radius: 10px 0 0 10px;
+}
+
+#right-side {
+    padding: 30px;
+    width: 50%;
+    float: right;
+    background-color: var(--white);
+    border-radius: 10px;
+}
+
+h4 {
+    color: var(--dark-grayish-blue);
+    font-family: Montserrat, sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+h1 {
+    margin-top: 20px;
+    color: var(--very-dark-blue);
+    font-family: Fraunces, sans-serif;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 34px;
+}
+
+#desc {
+    margin-top: 24px;
+    color: var(--dark-grayish-blue);
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+#price {
+    display: flex;
+    margin-top: 25px;    
+    align-items: center;
+}
+
+#price h2 {
+    color: var(--dark-cyan);
+    font-family: Fraunces, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    margin-right: 18px;
+}
+
+#price p {
+    color: var(--dark-grayish-blue);
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+
+#btn {
+    text-align: center;
+}
+
+button {
+    display: flex;
+    color: var(--white);
+    background-color: var(--dark-cyan);
+    font-family: Montserrat, sans-serif;
+    font-weight: 700;
+    width: 95%;
+    height: 50px;
+    margin-top: 18px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+button img {
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: var(--very-dark-cyan);
+    transition: 0.4s;
+}

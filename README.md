@@ -33,6 +33,7 @@ The designs were created to the following widths:
 - Dark Cyan: rgb(60, 128, 103)
 - Dark Grayish Blue: rgb(108, 114, 137)
 - Very Dark Blue: rgb(28, 35, 43)
+- Very Dark Cyan: rgb(26, 64, 49)
 - White: rgb(255, 255, 255)
 
 ### Challenge Font
@@ -47,7 +48,7 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-![](./)
+![](Design/Solution/Desktop%20Solution.png)
 
 ### Links
 
