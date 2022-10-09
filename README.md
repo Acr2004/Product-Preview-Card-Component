@@ -24,8 +24,8 @@ Users should be able to:
 
 The designs were created to the following widths:
 
-Desktop: 1440px
-Mobile: 375px
+- Desktop: 1440px
+- Mobile: 375px
 
 ### Challenge Colors
 
